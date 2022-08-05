@@ -1,6 +1,6 @@
 # Modelo de Machine Learning para Prever a Quantidade de Cupcakes
 
-![alt text](https://github.com/mfaysoares/Consumo_Cerveja_SP/blob/main/cover.png)
+![alt text](https://github.com/mfaysoares/Qtd_Cupcakes/blob/main/cover.png)
 
 Nesse projeto, foi desenvolvido um modelo de **Machine Learning** utilizando a técnica de **Regressão Linear** para demonstrar qual seria a quantidade de cupcakes produzidas para uma padaria fictícia, a Padaria da Bel, considerando como variáveis a quantidade de farinha e chocolate na receita.
 
