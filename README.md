@@ -1,4 +1,4 @@
-# Modelo de Machine Learning para Prever a Quantidade de Cupcakes
+# Modelo de Machine Learning para Prever a Quantidade de Cupcakes na Padaria da Bel
 
 ![alt text](https://github.com/mfaysoares/Qtd_Cupcakes/blob/main/cover.png)
 
